@@ -1,4 +1,4 @@
 
-[00:00:00.000 --> 00:00:03.520]   By optimizing the workflow, we can increase efficiency by 15%.
-[00:00:03.520 --> 00:00:05.680]   But how will that affect the Q3 projections?
-[00:00:05.680 --> 00:00:07.920]   We've accounted for that in the revised budget here.
+[00:00:00.000 --> 00:00:03.300]   By optimizing the workflow, we can increase efficiency by 15%.
+[00:00:03.300 --> 00:00:06.160]   Could you elaborate on the immediate resource allocation for Phase 1?
+[00:00:06.160 --> 00:00:08.000]   But how will that affect the Q3 projections?
