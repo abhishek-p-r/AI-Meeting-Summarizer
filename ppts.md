@@ -1,34 +1,4 @@
-# 🚀 Slide 1 - Your Details & Project Introduction
-### **"Local AI-Powered Meeting Summarizer: A Privacy-First, High-Performance Speech-to-Text & Summarization System"**
 
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>👤 Student Name</strong></td>
-      <td>Abhishek P. R.</td>
-    </tr>
-    <tr>
-      <td><strong>🎓 Branch</strong></td>
-      <td>Computer Science & Engineering (CSE) <em>(Change as per your exact branch)</em></td>
-    </tr>
-    <tr>
-      <td><strong>🏫 College / University</strong></td>
-      <td>[Insert Your College Name, e.g., Ramaiah Institute of Technology / RVCE]</td>
-    </tr>
-    <tr>
-      <td><strong>🆔 USN / Student ID</strong></td>
-      <td>[Insert Your USN / Student Seat Number, e.g., 1RV22CS000]</td>
-    </tr>
-    <tr>
-      <td><strong>👥 Project Type</strong></td>
-      <td>Individual Project</td>
-    </tr>
-    <tr>
-      <td><strong>🌐 Internship Domain</strong></td>
-      <td>Artificial Intelligence & Machine Learning (AI / ML)</td>
-    </tr>
     <tr>
       <td><strong>🎤 Project Topic</strong></td>
       <td><strong>AI-Powered Local Meeting Summarizer</strong> <br> <em>(Hybrid edge computing using optimized C++ <code>whisper.cpp</code> & local LLMs via <code>Ollama</code>)</em></td>
