@@ -128,7 +128,7 @@ def summarize_with_model(llm_model_name: str, context: str, text: str) -> str:
 
 
 # --- Google Gemini API Integration ---
-GEMINI_API_KEY = "AIzaSyBhH5gV-75FbYqbjiFuJjIUT9-aF_afyXY"
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 def summarize_with_gemini(context: str, transcript: str) -> str:
     """
